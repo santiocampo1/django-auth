@@ -36,7 +36,7 @@ This project is a full-stack web application that combines the robustness of Dja
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/santiocampo1/auth-django/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/santiocampo1/django-auth/issues).
 
 ## 👨‍💻 Author
 
